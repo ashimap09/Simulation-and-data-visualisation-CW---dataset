@@ -1,6 +1,6 @@
 [
   {
-    Gender: "female",
+    Identity: "female",
     Facebook: 222,
     Instagram: 535,
     None: 271,
@@ -8,7 +8,7 @@
     Twitter: 57
   },
   {
-    Gender: "male",
+    Identity: "male",
     Facebook: 326,
     Instagram: 380,
     None: 678,
